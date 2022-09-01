@@ -1,11 +1,13 @@
+/* universal selector affect all HTML elment on the page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Element selector formats the body of the page*/ 
 body {
     background-color: #d9dcd6;
+    font-family: gill;
 }
 
 .header {
