@@ -1,11 +1,13 @@
 # homework1-
-Description
+description
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-Screenshot
-https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-VIRT-FSF-PT-08-2022-U-LOLC/-/raw/main/01-HTML-Git-CSS/02-Challenge/Assets/01-html-css-git-homework-demo.png
+screenshot
+![app screenshot](./assets/images/brand-awareness.1.png)
+![app screenshot](./assets/images/brand-awareness.2.png)
+![app screenshot](./assets/images/brand-awareness.3.png)
 
 Deployed link
-http://127.0.0.1:5500/index.html
+http://127.0.0.1:5500/index.html 
