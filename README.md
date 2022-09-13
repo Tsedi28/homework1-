@@ -10,4 +10,4 @@ screenshot
 ![app screenshot](./assets/images/brand-awareness.3.png)
 
 Deployed link
-http://127.0.0.1:5500/index.html 
+https://tsedi28.github.io/homework1-/
